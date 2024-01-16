@@ -1,0 +1,12 @@
+li{display: inline;
+    font-size:25px;
+    padding-left:5%;
+    padding-right:5%;
+    }
+li:hover{
+    background-color:#E2411F;
+    }
+li a {
+    text-decoration: none;
+    color:white;
+    }
